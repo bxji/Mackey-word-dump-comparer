@@ -1,0 +1,126 @@
+Matching questions with at least 0.8 in common.
+
+Question 10 on Multiple Choice part 1 on cmps112-2017q4-midterm.tt with accuracy 0.9285714285714286: 
+    Type of (+)?
+    (A) int * int * int
+    (B) int * int -> int
+    (C) int -> int * int
+    (D) int -> int -> int
+
+
+
+Question 12 on Multiple Choice part 1 on cmps112-2017q4-midterm.tt with accuracy 0.8636363636363636: 
+    In the expression $ ( \lambda x . ( + x ) y ) $
+    (A) $x$ is bound and $y$ is bound.
+    (B) $x$ is bound and $y$ is free.
+    (C) $x$ is free and $y$ is bound.
+    (D) $x$ is free and $y$ is free.
+
++---------------------------------+
+|                                 |
+|                                 |
+|                                 |
+|                                 |
+|                                 |
+|                                 |
+|                                 |
+|jpgs/math-but-yesterday-you-said.ps
+|                                 |
+|                                 |
+|                                 |
+|                                 |
+|                                 |
+|                                 |
+|                                 |
++---------------------------------+
+
+
+
+
+Question 3 on Multiple Choice part 2 on cmps112-2018q1-midterm.tt with accuracy 0.9230769230769231: 
+    Output of:
+    # (-);;
+    (A) - : int * int * int = <fun>
+    (B) - : int * int -> int = <fun>
+    (C) - : int -> int * int = <fun>
+    (D) - : int -> int -> int = <fun>
+
+
+
+Question 4 on Multiple Choice part 1 on cmps112-2018q2-midterm.tt with accuracy 0.9444444444444444: 
+    What is the type of List.map((+)3)?
+    (A) (int -> int) -> int list -> int list
+    (B) int list -> (int -> int) list
+    (C) int list -> int list
+    (D) int list
+
+
+
+Question 9 on Multiple Choice part 1 on cmps112-2018q2-midterm.tt with accuracy 0.8260869565217391: 
+    In the \lambda-calculus expression $ ( lambda x . ~ + ~ x ~ y ) $:
+    (A) $x$ is bound and $y$ is bound.
+    (B) $x$ is bound and $y$ is free.
+    (C) $x$ is free and $y$ is bound.
+    (D) $x$ is free and $y$ is free.
+
+
+
+Question 10 on Multiple Choice part 1 on cmps112-2018q2-midterm.tt with accuracy 0.8823529411764706: 
+    What is tye type of (-)?
+    (A) int * int * int
+    (B) int * int -> int
+    (C) int -> int * int
+    (D) int -> int -> int
+
+
+
+Question 11 on Multiple Choice part 1 on cmps112-2018q2-midterm.tt with accuracy 0.9166666666666666: 
+    What is the type of List.map?
+    (A) ('a -> 'b) -> 'a list -> 'b list
+    (B) ('a * 'b) * 'a list * 'b list
+    (C) 'a list -> 'b list -> ('a -> 'b)
+    (D) ('a list -> 'b list) -> 'a -> 'b
+
+
+
+Question 5 on Multiple Choice part 1 on cmps112-2018q4-midterm.tt  with accuracy 0.95: 
+    Unix.  Which environment variable must be adjusted in order to
+    find the location of programs that are not in the standard
+    directories?
+    (A) $HOME
+    (B) $PATH
+    (C) $TERM
+    (D) $USER
+
+
+
+Question 11 on Multiple Choice part 1 on cmps112-2018q4-midterm.tt  with accuracy 0.9411764705882353: 
+    Ocaml.  What is the type of (+)?
+    (A) int * int * int
+    (B) int * int -> int
+    (C) int -> int * int
+    (D) int -> int -> int
+
+
+
+Question 4 on Multiple Choice part 1 on cmps112-2019q1-midterm.tt with accuracy 0.9411764705882353: 
+    Ocaml.  What is the type of (+)?
+    (A) int * int * int
+    (B) int * int -> int
+    (C) int -> int * int
+    (D) int -> int -> int
+
+
+
+Question 6 on Multiple Choice part 1 on cmps112-2019q1-midterm.tt with accuracy 0.9166666666666666: 
+    Assuming x is a proper list, what will return a list equivalent to
+    x?
+    (A) (car (cdr x) (cons x))
+    (B) (car (cons x) (cdr x))
+    (C) (cdr (car x) (cons x))
+    (D) (cdr (cons x) (car x))
+    (E) (cons (car x) (cdr x))
+    (F) (cons (cdr x) (car x))
+
+
+
