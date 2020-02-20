@@ -1,0 +1,259 @@
+Matching questions with at least 0.8 in common.
+
+Question 10 on Multiple Choice part 1 on cmps112-2017q4-midterm.tt with accuracy 0.9285714285714286: 
+    Type of (+)?
+    (A) int * int * int
+    (B) int * int -> int
+    (C) int -> int * int
+    (D) int -> int -> int
+
+
+
+Question 12 on Multiple Choice part 1 on cmps112-2017q4-midterm.tt with accuracy 0.8636363636363636: 
+    In the expression $ ( \lambda x . ( + x ) y ) $
+    (A) $x$ is bound and $y$ is bound.
+    (B) $x$ is bound and $y$ is free.
+    (C) $x$ is free and $y$ is bound.
+    (D) $x$ is free and $y$ is free.
+
++---------------------------------+
+|                                 |
+|                                 |
+|                                 |
+|                                 |
+|                                 |
+|                                 |
+|                                 |
+|jpgs/math-but-yesterday-you-said.ps
+|                                 |
+|                                 |
+|                                 |
+|                                 |
+|                                 |
+|                                 |
+|                                 |
++---------------------------------+
+
+
+
+
+Question 3 on Multiple Choice part 2 on cmps112-2018q1-midterm.tt with accuracy 0.9230769230769231: 
+    Output of:
+    # (-);;
+    (A) - : int * int * int = <fun>
+    (B) - : int * int -> int = <fun>
+    (C) - : int -> int * int = <fun>
+    (D) - : int -> int -> int = <fun>
+
+
+
+Question 4 on Multiple Choice part 1 on cmps112-2018q2-midterm.tt with accuracy 0.9444444444444444: 
+    What is the type of List.map((+)3)?
+    (A) (int -> int) -> int list -> int list
+    (B) int list -> (int -> int) list
+    (C) int list -> int list
+    (D) int list
+
+
+
+Question 9 on Multiple Choice part 1 on cmps112-2018q2-midterm.tt with accuracy 0.8260869565217391: 
+    In the \lambda-calculus expression $ ( lambda x . ~ + ~ x ~ y ) $:
+    (A) $x$ is bound and $y$ is bound.
+    (B) $x$ is bound and $y$ is free.
+    (C) $x$ is free and $y$ is bound.
+    (D) $x$ is free and $y$ is free.
+
+
+
+Question 10 on Multiple Choice part 1 on cmps112-2018q2-midterm.tt with accuracy 0.8823529411764706: 
+    What is tye type of (-)?
+    (A) int * int * int
+    (B) int * int -> int
+    (C) int -> int * int
+    (D) int -> int -> int
+
+
+
+Question 11 on Multiple Choice part 1 on cmps112-2018q2-midterm.tt with accuracy 0.9166666666666666: 
+    What is the type of List.map?
+    (A) ('a -> 'b) -> 'a list -> 'b list
+    (B) ('a * 'b) * 'a list * 'b list
+    (C) 'a list -> 'b list -> ('a -> 'b)
+    (D) ('a list -> 'b list) -> 'a -> 'b
+
+
+
+Question 5 on Multiple Choice part 1 on cmps112-2018q4-midterm.tt with accuracy 0.95: 
+    Unix.  Which environment variable must be adjusted in order to
+    find the location of programs that are not in the standard
+    directories?
+    (A) $HOME
+    (B) $PATH
+    (C) $TERM
+    (D) $USER
+
+
+
+Question 11 on Multiple Choice part 1 on cmps112-2018q4-midterm.tt with accuracy 0.9411764705882353: 
+    Ocaml.  What is the type of (+)?
+    (A) int * int * int
+    (B) int * int -> int
+    (C) int -> int * int
+    (D) int -> int -> int
+
+
+
+Question 4 on Multiple Choice part 1 on cmps112-2019q1-midterm.tt with accuracy 0.9411764705882353: 
+    Ocaml.  What is the type of (+)?
+    (A) int * int * int
+    (B) int * int -> int
+    (C) int -> int * int
+    (D) int -> int -> int
+
+
+
+Question 6 on Multiple Choice part 1 on cmps112-2019q1-midterm.tt with accuracy 0.9166666666666666: 
+    Assuming x is a proper list, what will return a list equivalent to
+    x?
+    (A) (car (cdr x) (cons x))
+    (B) (car (cons x) (cdr x))
+    (C) (cdr (car x) (cons x))
+    (D) (cdr (cons x) (car x))
+    (E) (cons (car x) (cdr x))
+    (F) (cons (cdr x) (car x))
+
+
+
+Question 1 on Multiple Choice part 1 on cmps112-2017q4-final.tt with accuracy 0.9583333333333334: 
+    What is the type of f:
+    let f (x, y) = x + y;;
+    (A) f : int * int * int
+    (B) f : int * int -> int
+    (C) f : int -> int * int
+    (D) f : int -> int -> int
+
+
+
+Question 2 on Multiple Choice part 1 on cmps112-2017q4-final.tt with accuracy 0.9230769230769231: 
+    What is the type of g:
+    let g x y = x * y;;
+    (A) f : int * int * int
+    (B) f : int * int -> int
+    (C) f : int -> int * int
+    (D) f : int -> int -> int
+
+
+
+Question 10 on Multiple Choice part 1 on cmps112-2017q4-final.tt with accuracy 0.8333333333333334: 
+    What has type int list in Ocaml?
+    (A) (1,2,3,4);;
+    (B) (1;2;3;4);;
+    (C) [1,2,3,4];;
+    (D) [1;2;3;4];;
+
+
+
+Question 9 on Multiple Choice part 2 on cmps112-2017q4-final.tt with accuracy 0.8333333333333334: 
+    Given the following Smalltalk definition, what returns 4?
+    a := [:x| x + 1].
+    (A) a 3.
+    (B) a at: 3.
+    (C) a value: 3.
+    (D) a x: 3.
+
+
+
+Question 1 on Multiple Choice part 1 on cmps112-2018q1-final.tt with accuracy 0.8125: 
+    If a function's arguments are always evaluated before the function
+    is called, that is __ order evaluation.
+    (A) applicative
+    (B) curried
+    (C) normal
+    (D) object-oriented
+
+
+
+Question 3 on Multiple Choice part 1 on cmps112-2018q1-final.tt with accuracy 1.0: 
+    # sqrt;;
+    (A) - : float * float = <fun>
+    (B) - : float -> float = <fun>
+    (C) - : int * int = <fun>
+    (D) - : int -> int = <fun>
+
+
+
+Question 8 on Multiple Choice part 1 on cmps112-2018q2-final.tt with accuracy 0.9285714285714286: 
+    Ocaml.  Type of (+)
+    (A) int * int * int
+    (B) int * int -> int
+    (C) int -> int * int
+    (D) int -> int -> int
+
+
+
+Question 4 on Free Response on cmps112-2018q4-final.tt with accuracy 0.847457627118644: 
+   Smalltalk.  Extend class Array with a keyword method innerprod
+   which computes the inner product of two arrays.  If the sizes of
+   the two arrays are the same, return the inner product.  If not, in-
+   dicate an error with the statement:  ^ self error: 'innerprod dif-
+   ferent sizes'.  [2pt]
+   Mathematically, the inner product $p$ of two arrays $a$ and $b$ is:
+   $ p = sum from i {a sub i} {b sub i} $
+
+
+
+Question 5 on Multiple Choice part 1 on cmps112-2018q4-final.tt with accuracy 0.9565217391304348: 
+    What is the type of f in the declaration:
+    let f (x, y) = x +. y;;
+    (A) float * float -> float
+    (B) float -> float -> float
+    (C) int * int -> int
+    (D) int -> int -> int
+
+
+
+Question 6 on Multiple Choice part 2 on cmps112-2018q4-final.tt with accuracy 0.8333333333333334: 
+    Perl.  Which of the following is an array?
+    (A) $a
+    (B) %a
+    (C) *a
+    (D) @a
+
+
+
+Question 1 on Free Response on cmps112-2019q1-final.tt with accuracy 0.8275862068965517: 
+   Ocaml.  Define the following functions.
+
+    (a) [2pt]
+        # map;;
+        - : ('a -> 'b) -> 'a list -> 'b list = <fun>
+
+    (b) [2pt]
+        # filter;;
+        - : ('a -> bool) -> 'a list -> 'a list = <fun>
+
+    (c) [2pt]
+        # fold_left;;
+        - : ('a -> 'b -> 'a) -> 'a -> 'b list -> 'a = <fun>
+
+
+
+Question 5 on Multiple Choice part 2 on cmps112-2019q1-final.tt with accuracy 1.0: 
+    Ocaml.  List.map
+    (A) ('a -> 'b -> 'a) -> 'a -> 'b list -> 'a
+    (B) ('a -> 'b -> 'b) -> 'a list -> 'b -> 'b
+    (C) ('a -> 'b) -> 'a list -> 'b list
+    (D) ('a -> bool) -> 'a list -> 'a list
+
+
+
+Question 8 on Multiple Choice part 2 on cmps112-2019q1-final.tt with accuracy 0.8181818181818182: 
+    Perl.  What is used to extract an element using $key from a hash
+    %hash?
+    (A) %hash[$key]
+    (B) %hash{$key}
+    (C) $hash[$key]
+    (D) $hash{$key}
+
+
+
