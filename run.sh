@@ -1,1 +1,1 @@
-python3 parse_midterms.py wordlist_112.txt output_midterm_112.txt 0.8 112
+python3 parse_midterms.py wordlist_112_final.txt output_112_final_W20.txt 0.8 112
